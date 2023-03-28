@@ -34,9 +34,6 @@
   <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
 </div>
 
-  #
-<a href=#><img src="contributions.svg"></a>
-  #
   
   ### <p align="center">Visitor counter<p>
 <p align="center"> 
