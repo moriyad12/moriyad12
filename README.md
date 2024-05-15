@@ -42,6 +42,3 @@ alt="moriyad12"/> -->
   <img src="https://profile-counter.glitch.me/moriyad12/count.svg" />
 </p>
 
-<p align="center">
-  <img src="Bottom.svg" alt="Github Stats" />
-</p>
