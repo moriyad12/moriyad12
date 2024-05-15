@@ -1,7 +1,7 @@
 <div align="center">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moriyad12&show_icons=true&include_all_commits=true&count_private=true&text_color=FFA718&theme=transparent&show_icons=true"
 alt="moriyad12"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=moriyad12&show_icons=true&locale=en&layout=compact&langs_count=20&icon_color=2fcca3&text_color=FFA718&theme=transparent&show_icons=true" alt="moriyad12"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=moriyad12&show_icons=true&locale=en&layout=compact&langs_count=20&icon_color=2fcca3&text_color=FFA718&theme=transparent&show_icons=true" alt="moriyad12"/> -->
 
 </div>
 
