@@ -1,44 +1,83 @@
 <div align="center">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moriyad12&show_icons=true&include_all_commits=true&count_private=true&text_color=FFA718&theme=transparent&show_icons=true"
-alt="moriyad12"/> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=moriyad12&show_icons=true&locale=en&layout=compact&langs_count=20&icon_color=2fcca3&text_color=FFA718&theme=transparent&show_icons=true" alt="moriyad12"/> -->
+  <h1>Hi there, I'm Mohamed Riyad! 👋</h1>
+  <h3>Software Engineer | Backend Specialist | Competitive Programmer</h3>
 
+  <p>
+    <a href="https://www.linkedin.com/in/mohamed-ryad-378562222/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://codeforces.com/profile/ryad9898" target="_blank">
+      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+    </a>
+    <a href="https://leetcode.com/mohamedahmed01008/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    </a>
+    <a href="mailto:mohamedriyad9898@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
 </div>
 
-# Lets connect
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamed-ryad-378562222/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" height="30" width="30" /></a>
- <a href="https://www.facebook.com/mohamed.ryaad.988" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-  <a href="mohamedriyad9898@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="30" width="30" /></a>
- <a href="https://codeforces.com/profile/ryad9898" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY=w240-h480-rw" height="40" width="40" /></a>
-<a href="https://leetcode.com/mohamedahmed01008/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-    <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
+---
+
+### 👨‍💻 About Me
+
+[cite_start]I am a **Software Engineer at TrianglZ LLC** [cite: 13] [cite_start]and a Computer Systems Engineering student at **Alexandria University**[cite: 7, 8]. I specialize in building scalable backend systems, microservices, and AI-integrated applications.
+
+* [cite_start]🔭 I’m currently working on **scalable backend services using Ruby on Rails & PostgreSQL**[cite: 15].
+* [cite_start]🏆 **Competitive Programming:** ECPC 2023 Finalist & Meta Hacker Cup participant[cite: 42, 43].
+* [cite_start]💡 **Interest:** Distributed Systems, Cloud Computing (AWS/Docker), and Generative AI[cite: 33, 31].
+* [cite_start]🧩 I have solved **1000+ problems** across various online judges[cite: 46].
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 </p>
 
-# Technologies & Tools
-<div style="display: inline_block"><br>
- 
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-1024.png" />
-  <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
-  <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
-  <img align="center" heigth="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">
-  <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
+**Backend & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
+</p>
+
+**DevOps & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moriyad12&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="Mohamed's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moriyad12&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 
-  
-  ### <p align="center">Visitor counter<p>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/moriyad12/count.svg" />
-</p>
-
+<div align="center">
+  <br>
+  <img src="https://profile-counter.glitch.me/moriyad12/count.svg" alt="Visitor Count" />
+</div>
