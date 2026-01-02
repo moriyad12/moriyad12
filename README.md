@@ -22,12 +22,12 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am a **Software Engineer at TrianglZ LLC** [cite: 13] [cite_start]and a Computer Systems Engineering student at **Alexandria University**[cite: 7, 8]. I specialize in building scalable backend systems, microservices, and AI-integrated applications.
+I am a **Software Engineer at TrianglZ LLC** and a Computer Systems Engineering student at **Alexandria University**. I specialize in building scalable backend systems, microservices, and AI-integrated applications.
 
-* [cite_start]🔭 I’m currently working on **scalable backend services using Ruby on Rails & PostgreSQL**[cite: 15].
-* [cite_start]🏆 **Competitive Programming:** ECPC 2023 Finalist & Meta Hacker Cup participant[cite: 42, 43].
-* [cite_start]💡 **Interest:** Distributed Systems, Cloud Computing (AWS/Docker), and Generative AI[cite: 33, 31].
-* [cite_start]🧩 I have solved **1000+ problems** across various online judges[cite: 46].
+* 🔭 I’m currently working on **scalable backend services using Ruby on Rails & PostgreSQL**.
+* 🏆 **Competitive Programming:** ECPC 2023 Finalist & Meta Hacker Cup participant.
+* 💡 **Interest:** Distributed Systems, Cloud Computing (AWS/Docker), and Generative AI.
+* 🧩 I have solved **1000+ problems** across various online judges.
 
 ---
 
@@ -73,11 +73,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moriyad12&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="Mohamed's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moriyad12&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
   <br>
-  <img src="https://profile-counter.glitch.me/moriyad12/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=moriyad12&label=Profile%20Views&color=blue&style=flat" alt="Visitor Count" />
 </div>
